@@ -1,0 +1,15 @@
+/home/tam/Documents/Bellringing program/Program/Bellringing/bin/Debug/net6.0/Bellringing
+/home/tam/Documents/Bellringing program/Program/Bellringing/obj/Debug/net6.0/Bellringing.csproj.AssemblyReference.cache
+/home/tam/Documents/Bellringing program/Program/Bellringing/obj/Debug/net6.0/Bellringing.GeneratedMSBuildEditorConfig.editorconfig
+/home/tam/Documents/Bellringing program/Program/Bellringing/obj/Debug/net6.0/Bellringing.AssemblyInfoInputs.cache
+/home/tam/Documents/Bellringing program/Program/Bellringing/obj/Debug/net6.0/Bellringing.AssemblyInfo.cs
+/home/tam/Documents/Bellringing program/Program/Bellringing/obj/Debug/net6.0/Bellringing.csproj.CoreCompileInputs.cache
+/home/tam/Documents/Bellringing program/Program/Bellringing/bin/Debug/net6.0/Bellringing.deps.json
+/home/tam/Documents/Bellringing program/Program/Bellringing/bin/Debug/net6.0/Bellringing.runtimeconfig.json
+/home/tam/Documents/Bellringing program/Program/Bellringing/bin/Debug/net6.0/Bellringing.dll
+/home/tam/Documents/Bellringing program/Program/Bellringing/bin/Debug/net6.0/Bellringing.pdb
+/home/tam/Documents/Bellringing program/Program/Bellringing/obj/Debug/net6.0/Bellringing.dll
+/home/tam/Documents/Bellringing program/Program/Bellringing/obj/Debug/net6.0/refint/Bellringing.dll
+/home/tam/Documents/Bellringing program/Program/Bellringing/obj/Debug/net6.0/Bellringing.pdb
+/home/tam/Documents/Bellringing program/Program/Bellringing/obj/Debug/net6.0/Bellringing.genruntimeconfig.cache
+/home/tam/Documents/Bellringing program/Program/Bellringing/obj/Debug/net6.0/ref/Bellringing.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "od4XuV07mozNyr/JByhYqg/aegfT6etDtgx7VFUYBp8aApIehl0Fhpt49yMsb4vbJve0ildhS7vO/tHhANX1XQ==",
+  "success": true,
+  "projectFilePath": "/home/tam/Documents/Bellringing program/Program/Bellringing/Bellringing.csproj",
+  "expectedPackageFiles": [
+    "/home/tam/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/tam/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/tam/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
